@@ -1,7 +1,7 @@
 from node import Node
 
 
-# Initialize the LinkedList to being modifying data
+# Initialize the LinkedList
 class LinkedList:
     def __init__(self, values=None):
         self.head = None
